@@ -12,7 +12,6 @@
 // Simple utility macros to avoid mistyping directory name, name has to be a string literal
 // audio_path("audio.ogg") -> data/audio/audio.ogg
 // Get defintion of PROJECT_SOURCE_DIR from:
-#include "project_path.hpp"
 #define PROJECT_SOURCE_DIR "../.."
 #define shader_path(name) PROJECT_SOURCE_DIR "/shaders/" name
 
