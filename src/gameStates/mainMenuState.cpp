@@ -267,7 +267,7 @@ void MainMenuState::reset_buttons()
 
 void MainMenuState::show_load_button()
 {
-    std::ifstream infile("../src/savedGame.txt");
+    std::ifstream infile(level_path("savedGame.txt"));
     if (infile.good()) {
         saved_file = true;
         loadButton.set_visibility(true);
