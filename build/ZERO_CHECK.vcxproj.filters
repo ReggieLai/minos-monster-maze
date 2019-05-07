@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\build\CMakeFiles\04eb0d0d2f026936043176645e30218c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2E03A1AD-4069-398C-B53C-0F21DA224D91}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -217,7 +217,7 @@ void MainMenuState::init_buttons()
     loadButton.init(vec2({buttonX, buttonY}), continueText, LOAD );
     newGameButton.init(vec2({buttonX, buttonY + buttonOffset}), newGameText, NEWGAME);
 
-    std::ifstream infile("../src/savedGame.txt");
+    std::ifstream infile(level_path("savedGame.txt"));
     if (infile.good()) {
         loadButton.set_visibility(true);
         loadButton.set_selected(true);

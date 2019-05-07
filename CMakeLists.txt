@@ -24,9 +24,6 @@ endif()
 
 # Create executable target
 
-# Generate the shader folder location to the header
-configure_file("${CMAKE_CURRENT_SOURCE_DIR}/include/project_path.hpp.in" "${CMAKE_CURRENT_SOURCE_DIR}/include/project_path.hpp")
-
 # You can switch to use the file GLOB for simplicity but at your own risk
 # file(GLOB SOURCE_FILES src/*.cpp src/*.hpp)
 
@@ -87,9 +84,8 @@ set(SOURCE_FILES
     src/rotationUIEnergy.cpp
     src/particleSystem/particle.cpp
     src/particleSystem/emitter.cpp
-        src/textManager.cpp
+    src/textManager.cpp
 
-    include/project_path.hpp
   	include/common.hpp
     include/renderManager.hpp
     include/spriteSheet.hpp

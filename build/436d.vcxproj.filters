@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\a1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\renderManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\spriteSheet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\characters\character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\characters\player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\characters\enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\characters\smart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\characters\harpy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\characters\simple.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\characters\spider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\characters\minotaur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\mazeComponents\mazeComponent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\mazeComponents\fixedComponent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\mazeComponents\freeComponent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\mazeComponents\geometricComponent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\mazeComponents\floor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\mazeComponents\fire.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\mazeComponents\ice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\mazeComponents\exit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\mazeComponents\spike.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\mazeComponents\blade.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\gameAI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\physics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\level.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\stateTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\menus\helpMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\gameStates\gameState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\gameStates\mainMenuState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\gameStates\levelSelectState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\gameStates\pauseMenuState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\gameStates\creditsState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\gameStates\introState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\gameStates\minotaurIntroState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\menus\mainMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\menus\menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\menus\button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\menus\levelSelectMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\menus\levelButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\menus\mainButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\menus\pauseMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\menus\savePopup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\menus\credits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\menus\intro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\menus\minotaurIntro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\levelLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\flashMessage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\gameSave.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\quadTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\soundManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\rotationUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\rotationUIEnergy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\particleSystem\particle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\particleSystem\emitter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\src\textManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\common.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\renderManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\spriteSheet.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\characters\character.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\characters\player.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\characters\enemy.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\characters\smart.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\characters\harpy.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\characters\simple.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\characters\spider.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\characters\minotaur.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\mazeComponents\mazeComponent.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\mazeComponents\fixedComponent.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\mazeComponents\freeComponent.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\mazeComponents\geometricComponent.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\mazeComponents\floor.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\mazeComponents\ice.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\mazeComponents\fire.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\mazeComponents\exit.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\mazeComponents\spike.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\mazeComponents\blade.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\gameAI.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\physics.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\level.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\stateTree.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\menus\helpMenu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\game.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\gameStates\gameState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\gameStates\mainMenuState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\gameStates\levelSelectState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\gameStates\pauseMenuState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\gameStates\creditsState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\gameStates\introState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\gameStates\minotaurIntroState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\menus\mainMenu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\menus\menu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\menus\button.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\menus\levelSelectMenu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\menus\levelButton.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\menus\mainButton.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\menus\pauseMenu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\menus\savePopup.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\menus\credits.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\menus\intro.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\menus\minotaurIntro.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\levelLoader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\flashMessage.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\gameSave.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\quadTree.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\soundManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\timer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\rotationUI.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\rotationUIEnergy.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\particleSystem\particle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\particleSystem\emitter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\include\textManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Truem\Documents\schoolwork\CPSC436D\minos-monster-maze\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2036171B-B632-3352-BC84-298F957617FF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3E7BFCEC-95FD-3261-AE8F-34F0BB4E64F8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

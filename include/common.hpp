@@ -13,10 +13,10 @@
 // audio_path("audio.ogg") -> data/audio/audio.ogg
 // Get defintion of PROJECT_SOURCE_DIR from:
 #include "project_path.hpp"
+#define PROJECT_SOURCE_DIR "../.."
+#define shader_path(name) PROJECT_SOURCE_DIR "/shaders/" name
 
-#define shader_path(name) PROJECT_SOURCE_DIR "./shaders/" name
-
-#define data_path PROJECT_SOURCE_DIR "./data"
+#define data_path PROJECT_SOURCE_DIR "/data"
 #define fonts_path(name)  data_path "/fonts/" name
 #define textures_path(name)  data_path "/textures/" name
 #define audio_path(name) data_path  "/audio/" name

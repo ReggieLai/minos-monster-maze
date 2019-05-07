@@ -8,7 +8,7 @@ void GameSave::save_game(Level* level)
 {
     gameLevel = level;
 
-    ofstream saveFile("../src/savedGame.txt");
+    ofstream saveFile(level_path("savedGame.txt"));
 
     document.SetObject();
 
@@ -193,7 +193,7 @@ void GameSave::save_blades()
 void GameSave::load_game()
 {
 
-    FILE* fp = fopen("../src/savedGame.txt", "r");
+    FILE* fp = fopen(level_path("savedGame.txt"), "r");
     char readBuffer[65536];
     FileReadStream is(fp, readBuffer, sizeof(readBuffer));
     document.ParseStream(is);

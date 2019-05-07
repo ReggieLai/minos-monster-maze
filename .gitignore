@@ -2,7 +2,8 @@
 src/project_path.hpp
 
 ## Ignore data files
-build/
+##unignoring build folder so that people can play the game without compiling the source code
+##build/
 *.mp4
 !Game_Demo_Video.mp4
 
